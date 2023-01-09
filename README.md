@@ -17,6 +17,10 @@ Soongsil Univ. Software
 #### **Velog**
 <a href="https://velog.io/@oxdjww"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+#### **Notion**
+ <a href="  https://jolly-match-313.notion.site/46ad32d75dad4409a039351dee4346ac
+"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 #### **BOJ**
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liku99)](https://solved.ac/liku99)
