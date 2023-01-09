@@ -1,6 +1,7 @@
 <div align = center>
-  
 ### **oxdjww**
+  
+#### *About me**
 YangChung HighSchool
 Soongsil Univ. Software
 
