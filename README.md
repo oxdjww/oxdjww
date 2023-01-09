@@ -3,7 +3,7 @@
 ### **🌱oxdjww🌱**
   
 #### **About me**
-YangChung HighSchool
+YangChung HighSchool  
 Soongsil Univ. Software
 
 #### **Studyed & Studying**
