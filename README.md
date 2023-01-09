@@ -1,6 +1,6 @@
 <div align = center>
-### oxdjww
+# oxdjww
 YangChung HighSchool
 Soongsil Univ. Software
 
-#### Study
+# Study
