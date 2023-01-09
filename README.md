@@ -1,7 +1,9 @@
 <div align = center>
   
-### oxdjww
+### **oxdjww**
 YangChung HighSchool
 Soongsil Univ. Software
 
-#### Study
+#### **Study**
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+
