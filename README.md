@@ -1,8 +1,6 @@
 <div align = center>
 
-  #### **About me**
-YangChung HighSchool  
-Soongsil Univ. Software
+  ![oxdjww's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxdjww&show_icons=true&theme=chartreuse-dark)
 
   
 #### **Studyed & Studying**
@@ -20,5 +18,4 @@ Soongsil Univ. Software
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liku99)](https://solved.ac/liku99)  
   
-![oxdjww's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxdjww&show_icons=true&theme=chartreuse-dark)
   
