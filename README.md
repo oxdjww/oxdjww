@@ -22,8 +22,8 @@
 
   
   
-<!--#### **BOJ**
+#### **BOJ**
 [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liku99)](https://solved.ac/liku99)  -->
+  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liku99)](https://solved.ac/liku99) 
   
   
