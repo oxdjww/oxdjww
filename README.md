@@ -1,8 +1,13 @@
-<div align = center>
+ <div align = center>
 <a href="https://jolly-match-313.notion.site/Kwon-Jung-Tae-46436d9d98a640ef937f5be09f00d785">
   <img src="https://img.shields.io/badge/AboutMe-808080?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <br/><br/><br/>
+  
+[![Solved.ac
+  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liku99)](https://solved.ac/liku99) 
+  
+  
 
   ![oxdjww's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxdjww&show_icons=true&theme=gotham)
   <br/><br/><br/>
@@ -20,7 +25,3 @@
 <!--<a href="https://velog.io/@oxdjww"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>-->
 
 #### PS
-[![Solved.ac
-  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liku99)](https://solved.ac/liku99) 
-  
-  
