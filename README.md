@@ -1,4 +1,6 @@
 # Profile
+Thank you for visiting my github
+
 <div align = center>
 
  <a href="https://jolly-match-313.notion.site/Kwon-Jung-Tae-46436d9d98a640ef937f5be09f00d785">
