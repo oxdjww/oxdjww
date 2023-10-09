@@ -1,9 +1,9 @@
-# [About Me](https://staeticc.site)
+# [About Me](https://oxdjww.site)
 Thank you for visiting my github
 
 <div align = center>
  
-##  [https://staeticc.site](https://staeticc.site)
+##  [https://oxdjww.site](https://oxdjww.site)
 
 <br>
    
