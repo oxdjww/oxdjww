@@ -1,9 +1,9 @@
+<div align = center>
+
 # [About Me](https://oxdjww.site)
 Thank you for visiting my github
-
-<div align = center>
  
-##  [https://oxdjww.site](https://oxdjww.site)
+###  [https://oxdjww.site](https://oxdjww.site)
 
 <br>
    
